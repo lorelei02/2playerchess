@@ -1,5 +1,6 @@
 import pygame
 
+#Talk tuah baby
 pygame.init()
 
 WIDTH = 1000
